@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swapped_sites_registration/static/css/main.f3ae117c.css",
+    "main.js": "/swapped_sites_registration/static/js/main.3e339b72.js",
+    "index.html": "/swapped_sites_registration/index.html",
+    "main.f3ae117c.css.map": "/swapped_sites_registration/static/css/main.f3ae117c.css.map",
+    "main.3e339b72.js.map": "/swapped_sites_registration/static/js/main.3e339b72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ae117c.css",
+    "static/js/main.3e339b72.js"
+  ]
+}
